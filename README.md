@@ -1,2 +1,3 @@
-# users-accounts-django-app
-Repo for a pluggable and customized django Users app
+# Django Customized User
+
+This a working pluggable app for django projects in situations where a few customizations may be required.
